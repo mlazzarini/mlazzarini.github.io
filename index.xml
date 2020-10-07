@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>johndoe</title>
-    <link>http://www.example.com/</link>
-    <description>Recent content on johndoe</description>
+    <title>Margherita Lazzarini</title>
+    <link>https://mlazzarini.github.io/</link>
+    <description>Recent content on Margherita Lazzarini</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 07 Oct 2020 08:18:32 +0200</lastBuildDate>
     
-	<atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mlazzarini.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://www.example.com/about/</link>
+      <link>https://mlazzarini.github.io/about/</link>
       <pubDate>Wed, 07 Oct 2020 08:18:32 +0200</pubDate>
       
-      <guid>http://www.example.com/about/</guid>
+      <guid>https://mlazzarini.github.io/about/</guid>
       <description></description>
     </item>
     
