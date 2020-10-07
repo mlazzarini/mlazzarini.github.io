@@ -6,18 +6,45 @@
     <description>Recent content on Margherita Lazzarini</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Oct 2020 08:18:32 +0200</lastBuildDate>
     
 	<atom:link href="https://mlazzarini.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>About</title>
-      <link>https://mlazzarini.github.io/about/</link>
-      <pubDate>Wed, 07 Oct 2020 08:18:32 +0200</pubDate>
+      <title>Contact</title>
+      <link>https://mlazzarini.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mlazzarini.github.io/about/</guid>
-      <description></description>
+      <guid>https://mlazzarini.github.io/contact/</guid>
+      <description>Here&amp;lsquo;s my LinkedIn page
+Here you can download my english CV
+E-mail: margherita.lazzarini[at]gmail.com</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://mlazzarini.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlazzarini.github.io/projects/</guid>
+      <description>Here&amp;rsquo;s my master thesis [italian] and my GitHub page.
+Sometimes I say something on Medium.
+  Pair programming .vscode extension IDE extension to support pair programming. See here
+  A 3D Blender rendering for the computer graphic course using ray tracing effect.
+  AJBoss app using Opennebula tool, 2014. Configuration of a cluster of virtual machines using Opennebula and deployment of a JBoss simple stateful app to test fault tolerance.</description>
+    </item>
+    
+    <item>
+      <title>Read it!</title>
+      <link>https://mlazzarini.github.io/readit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlazzarini.github.io/readit/</guid>
+      <description>Here&amp;rsquo;s a list of interesting books/articles/stuff I&amp;rsquo;ve read and I recommend!
+  The Pragmatic Programmer: From Journeyman to Master (eg. on Amazon)
+  How To Write Unmaintainable Code article
+  Building Maintainable Software book. Here&amp;lsquo;s my book review on Medium.
+  </description>
     </item>
     
   </channel>
