@@ -29,9 +29,11 @@ E-mail: margherita.lazzarini[at]gmail.com</description>
       <guid>https://mlazzarini.github.io/projects/</guid>
       <description>Here&amp;rsquo;s my master thesis [italian] and my GitHub page.
 Sometimes I say something on Medium.
+  A simple chat app based on Web Sockets. See here
   Pair programming .vscode extension IDE extension to support pair programming. See here
+   Some projects I did during my studies:
   A 3D Blender rendering for the computer graphic course using ray tracing effect.
-  AJBoss app using Opennebula tool, 2014. Configuration of a cluster of virtual machines using Opennebula and deployment of a JBoss simple stateful app to test fault tolerance.</description>
+  A JBoss app using Opennebula tool (2014).</description>
     </item>
     
     <item>
